@@ -1,0 +1,90 @@
+<_>
+   <form_key>Zawd57YQsIn33YTZ</form_key>
+   <name>PrizmCloud_Document_Viewer</name>
+   <channel>community</channel>
+   <version_ids>
+      <version_ids>2</version_ids>
+   </version_ids>
+   <summary>Prizm Cloud enables you to offer high-speed document viewing without worrying about additional hardware or installing software.</summary>
+   <description>Prizm Cloud enables you to offer high-speed document viewing without worrying about additional hardware or installing software.  The documents stay on your servers, so you can delete, update, edit and change them anytime. We don&apos;t keep copies of your documents, so they are always secure!</description>
+   <license>GPL2</license>
+   <license_uri/>
+   <version>1.0.0</version>
+   <stability>stable</stability>
+   <notes>Initial Release</notes>
+   <authors>
+      <name>
+         <name>Robin Hjelmeir</name>
+      </name>
+      <user>
+         <user>hjelmeir</user>
+      </user>
+      <email>
+         <email>rhjelmeir@accusoft.com</email>
+      </email>
+   </authors>
+   <depends_php_min>5.2.0</depends_php_min>
+   <depends_php_max>5.8.0</depends_php_max>
+   <depends>
+      <package>
+         <name>
+            <name/>
+            <name>Mage_Core_Modules</name>
+         </name>
+         <channel>
+            <channel/>
+            <channel>community</channel>
+         </channel>
+         <min>
+            <min/>
+            <min/>
+         </min>
+         <max>
+            <max/>
+            <max/>
+         </max>
+         <files>
+            <files>           </files>
+            <files>           </files>
+         </files>
+      </package>
+      <extension>
+         <name>
+            <name>Core</name>
+         </name>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+      </extension>
+   </depends>
+   <contents>
+      <target>
+         <target>magelocal</target>
+         <target>magecommunity</target>
+         <target>mageetc</target>
+      </target>
+      <path>
+         <path/>
+         <path>Accusoft</path>
+         <path>/modules/Accusoft_Prizmclouddocsviewer.xml</path>
+      </path>
+      <type>
+         <type>file</type>
+         <type>dir</type>
+         <type>file</type>
+      </type>
+      <include>
+         <include/>
+         <include/>
+         <include/>
+      </include>
+      <ignore>
+         <ignore/>
+         <ignore/>
+         <ignore/>
+      </ignore>
+   </contents>
+</_>
