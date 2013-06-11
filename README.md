@@ -6,11 +6,18 @@ You will need a PrizmCloud account to use PrizmCloud Document Viewer. [PrizmClou
 
 View a [demo](http://prizmcloud.accusoft.com/demo.html)
 
-##Installation Instructions
+###Installation Instructions
 
-1. Download and unzip all files to corresponding directories. "Accusoft" folder goes into site/app/code/community and "Accusoft_PrizmclouddocsViewer" file goes to site/app/etc/modules
-2. Login to your site and go to Admin > System > Configuration > Advanced > Advanced and see if your module is Enabled
-3. Go to Admin > System > Configuration > General > PrizmCloud Document Viewer and configure your settings
+1. Download and upzip github zip
+2. Log into the Admin Section
+3. Find the Systems Tab -> Magento Connect then Magento Connect Manager
+4. Log into Magento Connect Manager Using Your Admin Login
+5. Find ‘Direct Package File Upload’ and choose the PrizmCloud_Document_Viewer-1.0.0.tgz zip file and click ‘Upload’
+
+###Enabling and Configuring plugin
+
+1. Admin > System > Configuration > Advanced > Advanced and see if your module is Enabled
+2. Go to Admin > System > Configuration > General > PrizmCloud Document Viewer and configure your settings
 
 ### Add the Viewer to a Page
 
