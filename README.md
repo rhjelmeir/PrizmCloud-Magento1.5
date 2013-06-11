@@ -40,3 +40,11 @@ For example:
 ```
 {{block type="accusoft_prizmclouddocsviewer/viewer" v_type="html5" v_width=800 v_height=600 doc_url="http://domain.com/path/to/file.ext" print_button="Yes" toolbar_color="999999"}}
 ```
+
+###Uninstall Instructions
+1. Log into the Admin Section
+2. Find the Systems Tab -> Magento Connect then Magento Connect Manager
+3. Log into Magento Connect Manager Using Your Admin Login
+4. Under Manage Existing Extensions, find PrizmCloud_Document_Viewer
+5. Set dropdown to Uninstall and click on Commit Changes
+6. Click Return to Admin when upload complete
