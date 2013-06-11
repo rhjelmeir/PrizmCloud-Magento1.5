@@ -13,6 +13,7 @@ View a [demo](http://prizmcloud.accusoft.com/demo.html)
 3. Find the Systems Tab -> Magento Connect then Magento Connect Manager
 4. Log into Magento Connect Manager Using Your Admin Login
 5. Find ‘Direct Package File Upload’ and choose the PrizmCloud_Document_Viewer-1.0.0.tgz zip file and click ‘Upload’
+6. Click Return to Admin when upload complete
 
 ###Enabling and Configuring plugin
 
