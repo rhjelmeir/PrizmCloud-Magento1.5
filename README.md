@@ -48,3 +48,5 @@ For example:
 4. Under Manage Existing Extensions, find PrizmCloud_Document_Viewer
 5. Set dropdown to Uninstall and click on Commit Changes
 6. Click Return to Admin when upload complete
+
+
